@@ -1,0 +1,25 @@
+Employees performance tracking system (Web) 
+------------------------------------------
+Admin 
+- manages staffs(creating accounts for staff)
+	- create accounts
+	- delete accounts
+
+Manager
+- Login
+- Assign Projects to Team Leads(TL)
+- will have the Track of the Projects
+- Views the performances of TL and TM
+ 
+Team Lead
+- Login
+- Assign Project Modules to Team Members(TM)
+- will have the Track of the Modules
+- Views the performances of TM
+
+Staff
+- Login
+- Works on the assigned Tasks and 
+- Updates about his progress of the task
+
+
